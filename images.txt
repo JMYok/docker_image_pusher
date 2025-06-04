@@ -4,3 +4,4 @@ golang:1.23-alpine
 nginx:alpine
 mysql:8.0
 alpine:latest
+redis:7-alpine
