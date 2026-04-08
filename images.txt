@@ -1,4 +1,5 @@
 node:18-alpine
+node:20-alpine
 golang:1.21-alpine
 golang:1.23-alpine
 golang:1.24-alpine
