@@ -8,3 +8,5 @@ mysql:8.0
 alpine:latest
 redis:7-alpine
 quay.io/ascend/vllm-ascend:v0.19.1rc1-a3
+quay.io/ascend/vllm-ascend:deepseekv4
+quay.io/ascend/vllm-ascend:deepseekv4-a3
